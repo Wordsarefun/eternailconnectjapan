@@ -1,1 +1,1 @@
-# eternailconnectjapan
+# eternalconnectjapan
